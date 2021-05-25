@@ -27,11 +27,7 @@ python main.py
 ![](https://i.imgur.com/nVdhXNe.png)
 
 ### 3.1 Augnebted Reality
-<img src="https://i.imgur.com/HwE5PxU.png" width="250px">
-<img src="https://i.imgur.com/cl3Gzty.png" width="250px">
-<img src="https://i.imgur.com/wkJSMkI.png" width="250px">
-<img src="https://i.imgur.com/y9CxmeZ.png" width="250px">
-<img src="https://i.imgur.com/kqJA7Bv.png" width="250px">
+<img src="https://i.imgur.com/HwE5PxU.png" width="250px"> <img src="https://i.imgur.com/cl3Gzty.png" width="250px"> <img src="https://i.imgur.com/wkJSMkI.png" width="250px"> <img src="https://i.imgur.com/y9CxmeZ.png" width="250px"> <img src="https://i.imgur.com/kqJA7Bv.png" width="250px">
 
 ### 4.1 Stereo Disparity Map
 ![](https://i.imgur.com/4HsEjnw.png)
